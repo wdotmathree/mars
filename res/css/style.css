@@ -57,6 +57,13 @@ body {
   background-color: #1118;
 }
 
+.largeimage {
+  background-image: url("/res/mars.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .image {
   background-position: center;
   background-size: cover;
